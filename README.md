@@ -1,3 +1,6 @@
+# Blind_Care
+Authors: Naman Kanwar, Arun Suresh, Harnoor Singh, Shivam
+
 # Inspiration
 Inspired by a few blind people who use echolocation to "see" things around them, we have developed an interface that would help a blind person listen to have a feeling of where they belong in the society and enjoy the little things and experiences of everyday life.
 
