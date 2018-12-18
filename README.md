@@ -14,7 +14,7 @@ For Building the interface, we used the Apple Artificial Intelligence API that c
 As previously mentioned, we learned that the time it takes to train a simple data set is longer than we had previously anticipated. Therefore we had to restrict our data set and only work towards training specific limited amount of data. We also tried using the Microsoft Azure API to integrate into our interface - however, we soon learned that we had a few dependency issues that we could not resolve. We wasted over seven to eight hours trying to get that to work. In the end, we moved to using the Apple's AI API
 
 ## Accomplishments that we're proud of
-In the course of this Hackathon, we managed to code and implement successfully in 3 languages - Python, Java and ios. Even though we did not pursue our completed Python project to integrate into an android app (we had to download and learn to use a cross platform program to execute that) - we were able to successfully implement and get positive results in all three languages.
+In the course of this Hackathon, we managed to code and implement successfully in 3 languages - Python, Java and Swift. Even though we did not pursue our completed Python project to integrate into an android app (we had to download and learn to use a cross platform program to execute that) - we were able to successfully implement and get positive results in all three languages.
 
 ## What we learned
 We learned various new methods of coding with AI and Machine Learning Algorithms. We also gained a clearer picture on how to use APIs and integrate them into a common framework that we had in mind. Also, in addition to that, we were also able to learn a bit of implementation using neural networks.
